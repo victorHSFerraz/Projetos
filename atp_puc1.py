@@ -61,4 +61,5 @@ idade = dados[1]
 produtosQuantidade = int(input("\nQuantos produtos deseja cadastrar? "))
 for vezes in range(0, produtosQuantidade):
     verificar_produto(limite, idade)
-print(tudo)
+# Valor total nao esta com o desconto aplicado
+print(f"\nValor TOTAL dos produtos: {tudo}")
