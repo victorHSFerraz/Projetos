@@ -1,0 +1,1 @@
+Programa para ler o cateto oposto e adjacente de um triangulo retangulo e realizar o calculo da hipotenusa. 
